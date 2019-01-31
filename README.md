@@ -9,3 +9,6 @@ Where:<br />
 `url` - image address,<br /> 
 `width` - image width (just number),<br /> 
 `height` - image height (just number).
+
+# To do
+- clean unused images
